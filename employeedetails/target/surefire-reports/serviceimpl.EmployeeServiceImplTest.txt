@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: serviceimpl.EmployeeServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.098 s <<< FAILURE! - in serviceimpl.EmployeeServiceImplTest
+testFindEmployeeByGender  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException
+	at serviceimpl.EmployeeServiceImplTest.testFindEmployeeByGender(EmployeeServiceImplTest.java:83)
+
+testFindEmployeeByIdThrow  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at serviceimpl.EmployeeServiceImplTest.testFindEmployeeByIdThrow(EmployeeServiceImplTest.java:56)
+
+testAllEmployee  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at serviceimpl.EmployeeServiceImplTest.testAllEmployee(EmployeeServiceImplTest.java:64)
+
+testCreateEmployee  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at serviceimpl.EmployeeServiceImplTest.testCreateEmployee(EmployeeServiceImplTest.java:73)
+
+testFindEmployeeById  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at serviceimpl.EmployeeServiceImplTest.testFindEmployeeById(EmployeeServiceImplTest.java:48)
+

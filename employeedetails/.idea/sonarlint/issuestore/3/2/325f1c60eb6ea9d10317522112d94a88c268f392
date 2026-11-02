@@ -1,0 +1,12 @@
+
+i
+java:S1128"GRemove this unused import 'org.springframework.core.task.TaskExecutor'.(ÆîûÆûÿÿÿÿ8§ß®Ö0
+s
+java:S1128"VRemove this unused import 'org.springframework.scheduling.annotation.AsyncConfigurer'.(¾Ûüù8§ß®Ö0
+o
+java:S1128	"RRemove this unused import 'org.springframework.scheduling.annotation.EnableAsync'.(•âÙ8Àº¥à0
+
+java:S1128
+"]Remove this unused import 'org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor'.(’Úë¥ùÿÿÿÿ8Œ¥‡×0
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8¥‡×0

@@ -1,0 +1,16 @@
+
+k
+java:S1128"NRemove this unused import 'com.fasterxml.jackson.annotation.JsonIdentityInfo'.(—éÑğ8¢ÎÍƒ0
+f
+java:S1128"IRemove this unused import 'com.fasterxml.jackson.annotation.JsonInclude'.(şîÌ8¢ÎÍƒ0
+m
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.annotation.ObjectIdGenerators'.(èîí8¢ÎÍƒ0
+R
+java:S1128"5Remove this unused import 'lombok.EqualsAndHashCode'.(Ìà‰ò8 ôûÌƒ0
+I
+java:S1128	",Remove this unused import 'lombok.ToString'.(¹ÂÄÓ8 ôûÌƒ0
+b
+java:S1128
+"@Remove this unused import 'org.hibernate.annotations.LazyToOne'.(”İÁøÿÿÿÿ8 ôûÌƒ0
+h
+java:S1128"FRemove this unused import 'org.hibernate.annotations.LazyToOneOption'.(¹É®øÿÿÿÿ8¡ôûÌƒ0
